@@ -1,7 +1,0 @@
-# node / build / db / os
-node_modules/
-frontend/dist/
-backend/*.db
-backend/*.db-journal
-*.log
-.DS_Store
